@@ -1,7 +1,6 @@
 # How to demultiplex BCL to fastq for libraries with Nextera XT 384 indexes
 
-Scripts and sources to demultiplex BCL to fastq files based on 384 Nextera XT indexes
-
+Resources to demultiplex BCL to fastq files based on 384 Nextera XT indexes
 
 
 ## Tutorials
